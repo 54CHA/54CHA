@@ -10,7 +10,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/alexanderkhv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alexanderkhv" height="30" width="40" /></a>
-<a href="https://t.me/sachakhv" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/2048px-Telegram_logo.svg.png" height="30" width="40" /></a>
+<a href="https://t.me/sachakhv" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
