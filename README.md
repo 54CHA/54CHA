@@ -53,5 +53,4 @@
 
 <div align="center">
   🔥 Always learning. Always building. Let's create something amazing together! 🌟  
-  🚀 **Co-Founder at [Xouston.com](https://xouston.com)**  
 </div>
