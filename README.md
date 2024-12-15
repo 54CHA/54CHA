@@ -22,9 +22,6 @@
   <a href="https://t.me/sachakhv" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" alt="Telegram" height="40" width="40"/>
   </a>
-  <a href="https://xouston.com" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/internetexplorer/internetexplorer-icon.svg" alt="Xouston" height="40" width="40"/>
-  </a>
 </p>
 
 ---
