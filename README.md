@@ -17,11 +17,3 @@
 
 ---
 
-### 🌐 Connect With Me
-<p>
-  <a href="https://t.me/sachakhv" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111644.png" alt="Telegram" height="40" width="40"/>
-  </a>
-</p>
-
----
