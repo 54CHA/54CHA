@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://i.redd.it/7bsc4vk0jkj71.gif" alt="Coding" width="300"/>
   
-  # Hi, I'm Alexander Khvoshchev 👋  
   ### Co-Founder at [Xouston.com](https://xouston.com) 🚀  
   ### A Passionate Developer 🌟  
   
