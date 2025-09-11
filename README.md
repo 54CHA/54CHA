@@ -9,7 +9,7 @@
 ---
 
 ### 📫 Contact Me
-- **Email**: [contact@xouston.com](mailto:shsha.khv@gmail.com)  
+- **Email**: [shsha.khv@gmail.com](mailto:shsha.khv@gmail.com)  
 - **Telegram**: [@sachakhv](https://t.me/sachakhv)
 
 ---
