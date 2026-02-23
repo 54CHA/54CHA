@@ -8,7 +8,7 @@
 
 ---
 
--**Working On:**: products in the ton ecosystem, igaming products, cool ai stuff
+- **Working On**: products in the ton ecosystem, igaming products, cool ai stuff
 - **Email**: [shsha.khv@gmail.com](mailto:shsha.khv@gmail.com)  
 - **Telegram**: [@sachakhv](https://t.me/sachakhv)
 
